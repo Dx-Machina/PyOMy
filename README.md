@@ -13,7 +13,7 @@ pip install --break-system-packages speechrecognition
 pip install --break-system-packages pyttsx3
 pip install --break-system-packages openai
 sudo apt-get install espeak
-sudo apt-get install Flac
+sudo apt-get install flac
 ``````
 ** note: only use the "--break-system-packages" flag if your machine is unable to pip.
 # To Run

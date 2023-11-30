@@ -14,7 +14,7 @@ pip install --break-system-packages openai
 sudo apt-get install espeak
 sudo apt-get install Flac
 ``````
-
+** note: only use the "--break-system-packages" flag if your machine is unable to pip.
 # To Run
 
 ```bash

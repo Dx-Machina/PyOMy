@@ -5,8 +5,10 @@ Documentation must include:
    				Raspberry Pi4(8gb), 
 	   			AirPods (Microphone and Speakers), 
 	   			Keyboard.
+				Mouse
    	Software: 
-				RPiOS (64-bit), 
+				RPiOS (64-bit),
+				Python 3.6 or Later,
 				Linux Terminal, 
 				pip, 
 				git, 
@@ -20,7 +22,7 @@ Documentation must include:
     			Transformer models are not just the future, but the present as well. There's no need for massive and costly GPUs to run
 	   			any of these models, and the proof is in the pi.
  	Video or Power point if used in your presentation
- 	
+ 		https://docs.google.com/presentation/d/1VmtQRbbLnWp0OjF4smIXGpVcNeRbwBVUwit-FAsrJiM/edit#slide=id.g2629ee91052_0_278
 	Source code of software you wrote (not required if you plan to publish it)
 				https://github.com/Dx-Machina/PyOMy.git
 	

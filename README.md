@@ -6,6 +6,7 @@
 To install the required libraries, run the following commands in your terminal:
 
 ```bash
+git clone https://github.com/Dx-Machina/PyOMy.git
 sudo apt-get install  portaudio19-dev
 sudo apt-get install python3-pyaudio
 pip install --break-system-packages speechrecognition

@@ -1,0 +1,29 @@
+Documentation must include:
+	Group member: Youssef Hegazy
+ 	Project name: PyOMy
+  	Hardware used: 
+   				Raspberry Pi4(8gb), 
+	   			AirPods (Microphone and Speakers), 
+	   			Keyboard.
+   	Software: 
+				RPiOS (64-bit), 
+				Linux Terminal, 
+				pip, 
+				git, 
+				nano.
+   Problems you ran into and their solutions
+   			1- I ran into a problem regarding pip. Starting with Python 3.11, on Debian distros, the Python Software Foundation 
+					decided to disable pip since package managment was done by Debian package management, apt, to prevent the possibility
+					of conflicts.
+					I was able to resolve the issue by force using pip using the flag --break-system-packages with each pip command.
+    What you learned from doing this project
+    			Transformer models are not just the future, but the present as well. There's no need for massive and costly GPUs to run
+	   			any of these models, and the proof is in the pi.
+ 	Video or Power point if used in your presentation
+ 	
+	Source code of software you wrote (not required if you plan to publish it)
+				https://github.com/Dx-Machina/PyOMy.git
+	
+ 	Submit your documentation on Canvas before your presentation.
+	I don’t like to follow links. Include your complete project on canvas unless it is simply
+	too large or is on Github.

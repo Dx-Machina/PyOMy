@@ -24,6 +24,10 @@ def get_response(user_input):
     )
     ChatGPT_reply = response["choices"][0]["message"]["content"]
     messages.append({"role": "assistant", "content": ChatGPT_reply})
+    # Print the response to the console #added to see the response in the console #aby
+    print("Jarvis: " + ChatGPT_reply) #added to see the response in the console #aby
+    
+    
     return ChatGPT_reply
 
 

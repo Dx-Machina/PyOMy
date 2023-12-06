@@ -31,7 +31,7 @@ def get_response(user_input):
     
     return ChatGPT_reply
 
-
+##i just added this
 while listening:
     with sr.Microphone() as source:
         recognizer = sr.Recognizer()

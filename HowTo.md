@@ -10,7 +10,7 @@
   	07- Open a new terminal window in your linux environment.
    	08- Make sure to navigate to where you downloaded the file (that is, if you didn't download it to the desktop).
 	09- type nano start.sh to edit the file.
- 	10- Navigate to line 13 (or where it says "export OPENAI_API_KEY='Your Personal OpenAI API Key'"
+ 	10- Navigate to line 14 (or where it says "export OPENAI_API_KEY='Your Personal OpenAI API Key'")
   	11- Paste your OpenAI API Key within the single quotes, and make sure there's no spaces
    	12- Save the file and exit by using command+x then pressing Y, then Enter.
 	13- Type 'chmod +x start.sh' in your terminal to give the bash file permission to run

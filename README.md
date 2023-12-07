@@ -1,5 +1,6 @@
 # Project: PyOMy
-# Description: AI-voice assistant fused with OpenAI's ChatGPT. It produces voice and written responses.
+# Description: 
+	AI-voice assistant fused with OpenAI's ChatGPT. It produces voice and written responses.
 # Hardware Requirements:
 	Raspberry Pi4(8gb),
 	Microphone,
